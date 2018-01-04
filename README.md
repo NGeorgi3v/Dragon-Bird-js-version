@@ -1,1 +1,2 @@
-# Dragon-Bird-js-version
+# Flappy_Dragon
+Flappy dragon game
